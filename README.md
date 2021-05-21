@@ -1,7 +1,5 @@
-what ?
-what are you doing ?
-this github acc for mee 
-get out !!
-Bitch !!!
-what the 
-fuck off !
+i know
+
+1-html
+2-python 
+3-css
