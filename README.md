@@ -6,7 +6,7 @@ i'm from < egypt >
 
 < TryHackMe player 🏴 > 
 
-discord : z3tor123#9461
+discord : z3tor123#0080
 
 ,
 
